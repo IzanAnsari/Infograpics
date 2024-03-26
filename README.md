@@ -1,7 +1,4 @@
-Data Visualization Dashboard
 
-
-The objective of this assignment is to create a data visualization dashboard as per as instructions
 
 Introduction:
 
@@ -15,19 +12,27 @@ Technologies Used:
 
 ➢ MongoDB: Database management system to store and manage the provided JSON data.
 ➢ Express.js: Backend framework for building the RESTful API to interact with the
+
 MongoDB database.
+
 ➢ React.js: Frontend library for building interactive user interfaces.
 ➢ Node.js: JavaScript runtime environment for running the server-side application.
 ➢ Chart.js: Data-Driven Documents library for creating interactive and dynamic
+
 visualizations.
+
 ➢ Other visualization libraries such as chart.js, fusioncharts, plotly.js, etc., can be used based
 on project requirements.
 To start the project:
+
 Backend Setup:
+
 ➢ Navigate to the backend directory of your project.
 ➢ Run npm install to install all the required dependencies.
 ➢ Start the backend server by running npm run dev or node server.js.
+
 Frontend Setup:
+
 ➢ Navigate to the frontend directory of your project.
 ➢ Run npm install to install all the required dependencies.
 ➢ Start the frontend development server by running npm start.
