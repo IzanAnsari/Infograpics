@@ -119,3 +119,13 @@ and frontend development, dashboard features, and overall implementation guideli
 completed dashboard offers an interactive platform for visualizing insights derived from
 the provided JSON data, enabling users to gain valuable insights and make informed
 decisions based on the data analysis.
+
+ScreenShots:
+
+![Screenshot (22)](https://github.com/IzanAnsari/Infograpics/assets/107785994/eb02ee43-5acb-4156-a085-9bba379891dd)
+
+![Screenshot (23)](https://github.com/IzanAnsari/Infograpics/assets/107785994/e6c54a9e-85c2-4fa2-b46a-adf8bd9095b1)
+
+
+
+
