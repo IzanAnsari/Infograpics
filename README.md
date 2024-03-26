@@ -1,7 +1,10 @@
 Data Visualization Dashboard
+
+
 The objective of this assignment is to create a data visualization dashboard as per as instructions
 
 Introduction:
+
 This document provides an overview and documentation for the development of a Data
 Visualization Dashboard using MERN Stack (MongoDB, Express.js, React.js, Node.js) to
 visualize insights derived from provided JSON data. The dashboard aims to offer interactive
@@ -9,6 +12,7 @@ visualization of various parameters such as Intensity, Likelihood, Relevance, Ye
 Topics, Region, and City.
 
 Technologies Used:
+
 ➢ MongoDB: Database management system to store and manage the provided JSON data.
 ➢ Express.js: Backend framework for building the RESTful API to interact with the
 MongoDB database.
@@ -33,6 +37,7 @@ Frontend Setup:
 Backend-Server
 
 Project Structure:
+
 • server.js: Main file for server initialization and middleware setup.
 • routes/api.js: Contains API endpoints for fetching data from MongoDB.
 • models/dataModel.js: Defines the data schema for MongoDB.
